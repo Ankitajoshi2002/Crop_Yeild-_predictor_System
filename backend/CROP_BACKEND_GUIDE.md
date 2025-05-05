@@ -116,6 +116,15 @@ This will output the predicted crop yield in the terminal.
 
 ---
 
+
+## 📸 Screenshots
+
+| 🏠 Server View |
+|-------------|
+| ![Server View] (https://github.com/Ankitajoshi2002/TO_DO_APP/image/BACKEND_SERVER.png) |
+
+---
+
 ## 👩‍💻 Author
 
 **Ankita Joshi**  
