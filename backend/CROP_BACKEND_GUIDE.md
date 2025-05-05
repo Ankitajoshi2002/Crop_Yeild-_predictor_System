@@ -119,9 +119,10 @@ This will output the predicted crop yield in the terminal.
 
 ## 📸 Screenshots
 
-| 🏠 Server View |
-|-------------|
-| ![Server View] (https://github.com/Ankitajoshi2002/TO_DO_APP/image/BACKEND_SERVER.png) |
+### 🖥 Backend Server View
+
+| ![Server View](https://github.com/Ankitajoshi2002/Crop_Yeild-_predictor_System/blob/aff4f520967b96d280aad47f93c6b5f7962ce5a1/image/BACKEND_SERVER.png) |
+
 
 ---
 
